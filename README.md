@@ -658,6 +658,16 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![Screenshot 2024-04-30 084117](https://github.com/GUGHAN-3001/softweb/assets/150009432/7806be86-7f52-43fb-9013-c410e820d266)
+
+![Screenshot 2024-04-30 084134](https://github.com/GUGHAN-3001/softweb/assets/150009432/481f7126-6320-47dd-9422-b4ecbb1cd435)
+
+![Screenshot 2024-04-30 084154](https://github.com/GUGHAN-3001/softweb/assets/150009432/a5eb6afe-b310-4e4d-992f-1bfbb93ed878)
+
+![Screenshot 2024-04-30 084209](https://github.com/GUGHAN-3001/softweb/assets/150009432/58f50d7e-71b7-42e3-afbf-a4a0a4515ffd)
+
+
+
 
 
 
