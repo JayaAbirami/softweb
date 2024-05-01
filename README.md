@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+![GUGHAN S](https://github.com/GUGHAN-3001/softweb/assets/151487010/a08c1c7a-8e3f-4cff-9557-ed549b298f39)# Ex.07 Software Product Company Website
 ## Date: 25-04-2024
 
 ## AIM:
@@ -634,19 +634,19 @@ Publish the website in the given URL.
                 <img src="linkedin.png" alt="LinkedIn Logo">
                 <p>LinkedIn:</p>
                 <ul>
-                    <li><a href="https://www.linkedin.com/in/arjunns3705/" target="_blank">ARJUN N S</a></li>
+                    <li><a href="https://www.linkedin.com/in/gughan-s/" target="_blank">Gughan S</a></li>
                 </ul>
             </div>
             <div class="contact-item">
                 <img src="instagram.jpeg" alt="Instagram Logo">
                 <p>Instagram:</p>
                 <ul>
-                    <li><a href="https://www.instagram.com/arjunn07._/" target="_blank">arjunn07._</a></li>
+                    <li><a href="https://www.instagram.com/_.gxghn___/" target="_blank">_.gxghn___</a></li>
                 </ul>
             </div>
             <div class="contact-item">
                 <img src="gmail.png" alt="Gmail Logo">
-                <p>Gmail: <a href="mailto:nsarjun3705@gmail.com">nsarjun3705@gmail.com</a></p>
+                <p>Gmail: <a href="mailto:gughan3001@gmail.com">gughan3001@gmail.com</a></p>
             </div>
         </div>
     </div>
@@ -664,7 +664,8 @@ Publish the website in the given URL.
 
 ![Screenshot 2024-04-30 084154](https://github.com/GUGHAN-3001/softweb/assets/150009432/a5eb6afe-b310-4e4d-992f-1bfbb93ed878)
 
-![Screenshot 2024-04-30 084209](https://github.com/GUGHAN-3001/softweb/assets/150009432/58f50d7e-71b7-42e3-afbf-a4a0a4515ffd)
+![GUGHAN S](https://github.com/GUGHAN-3001/softweb/assets/151487010/fc0d9881-dd90-4080-b5cc-a74226b3cbac)
+
 
 
 
